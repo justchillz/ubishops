@@ -1,0 +1,54 @@
+.bu-tools .btn-top.btn-donate {
+    background-position: center 7px;
+    background-size: 35px 35px;
+    background-image: url(images/common/donate_main_menu.png);
+    background-repeat: no-repeat;
+}
+
+.bu-tools .btn-top.btn-donate:hover {
+    background-position: center 7px;
+    background-size: 35px 35px;
+    color: white;
+    background-image: url(images/common/donate_main_menu-hover.png);
+    background-color: #42226f
+}
+.site-header .home-link img{
+    /*margin:20px 0px 30px;*/
+    margin: 10px 0;
+}
+.site-header .home-link {
+	padding-top: 0;
+}
+.site-header .bu-tools.alignright.bu-no-padding-left{
+    /*margin-top:132px;*/
+    margin-top: 0;
+}
+.logged-in .site-main {
+    position: relative;
+    /*margin-top: 190px !important;*/
+    margin-top: 70px !important;
+    width: 100%;
+}
+.site-main {
+    position: relative;
+    /*margin-top: 220px !important;*/
+	margin-top: 100px !important;
+    width: 100%;
+}
+
+.AppArmor-active .site-header {
+	top: 61px!important
+}
+.AppArmor-active .logged-in .site-main {
+	margin-top: 131px!important;
+}
+.AppArmor-active .site-main {
+	margin-top: 161px !important;
+} */
+.apparmor-alert {
+	padding: 0!important;
+}
+.apparmor-alert p {
+	margin: 0;
+    line-height: 61px;
+}
